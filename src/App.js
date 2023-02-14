@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          레포지토리 적용하기 (연습하기)
+          레포지토리 적용하기
         </p>
         <a
           className="App-link"
